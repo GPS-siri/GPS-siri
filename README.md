@@ -1,6 +1,6 @@
 # GYEONGSIL PARK <a id="SIRI">
 
-![SIRI](https://capsule-render.vercel.app/api?type=venom&height=200&text=Web%20Application%20Developer.&fontSize=70&color=0:8871e5,100:b678c4&fontColor=FDCFFA)
+![SIRI](https://capsule-render.vercel.app/api?type=venom&height=200&text=Web%20Developer.&fontSize=70&color=0:8871e5,100:b678c4&fontColor=FDCFFA)
 
 ## 👤 **기본 정보**
 
