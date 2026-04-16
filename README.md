@@ -14,7 +14,7 @@
 #### Frontend
 
 - 메인기술: `TypeScript, React, Vue`
-- State Management(캐싱, 전역상태): `Recoil, Redux, React Query, Vuex, Apollo`
+- State Management(캐싱, 전역상태): `Zustand, Recoil, Redux, React Query, Vuex, Apollo`
 - Styling: `Styled-components, Tailwind CSS`
 
 #### Tools
@@ -34,7 +34,9 @@
 
 - 프로텍트
 
+> Frontend Developer
+> 2022.08.20 ~ 2023.06
 > Full-Stack Developer
-> 2020.08.20 ~ 2025.04.30
+> 2023.07 ~
 
 ---
