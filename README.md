@@ -34,9 +34,13 @@
 
 - 프로텍트
 
-> Frontend Developer
-> 2022.08.20 ~ 2023.06
-> Full-Stack Developer
-> 2023.07 ~
+> Frontend Developer<br>
+> 2022.08.20 ~ 2023.06<br>
+> Full-Stack Web Application Developer<br>
+> 2023.07 ~ 2025.04
+
+- 대한항공 AICC: SM(Partner)
+> Full-Stack Web Application Developer<br>
+> 2025.12 ~
 
 ---
