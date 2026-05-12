@@ -32,15 +32,14 @@
 
 ### **업무 경력 (Work Experience)**
 
-- 프로텍트
+- 대한항공 AICC: SM(Partner)
+> Full-Stack Web Application Developer<br>
+> 2025.12 ~
 
+- 프로텍트
 > Frontend Developer<br>
 > 2022.08.20 ~ 2023.06<br>
 > Full-Stack Web Application Developer<br>
 > 2023.07 ~ 2025.04
-
-- 대한항공 AICC: SM(Partner)
-> Full-Stack Web Application Developer<br>
-> 2025.12 ~
 
 ---
